@@ -6,7 +6,8 @@ namespace klase1
     {
         //teko pasinaudoti void, nes while skliaustus priskyre prie public class seka ir dave daug erroru.
         public void sek()
-            { 
+            {
+            double abd;
             double a = 1;
             double b = 2;
             double c = 1;
